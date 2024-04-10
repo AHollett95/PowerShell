@@ -1,47 +1,48 @@
-# How to PowerShell - Resource Availability for PowerShell
+# Introduction
 
-## The Big Wig: [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/) (<https://learn.microsoft.com/en-us/powershell/>)
+Hi there! 👋 My name is Austin Hollett and I'm an automation/scripting nut. Welcome to my GitHub!
 
-## FORUM RELATED
+## About Me
 
-<mark> General rule of thumb:</mark>
-When posting, be descriptive, but concise and show any dependencies that contextualize your code requirements.
+- 🔭 I’m a Sr. Software Engineer working on PKI Systems
+- 🌱 I’m currently learning PowerShell and all it has in store for us
+<!-- - 👯 I’m looking to collaborate on [Open Source Projects/Interesting Ideas] 
+- 💬 Ask me about [Areas of Expertise/Interests] -->
+- 📫 How to reach me: [Get in Touch](#get-in-touch)
+- 😄 Pronouns: He/Him
 
-### [PowerShell Forums](PowerShell.org) (<https://PowerShell.org>)
+## Skills
 
-- Navigating the forums
-- How to post (code snippets and supports markdown)
+Work in Progress
 
-### [PowerShell Community](https://techcommunity.microsoft.com/t5/powershell/ct-p/WindowsPowerShell)
+- Programming Languages: PowerShell, Java
+<!-- - Frameworks and Libraries: [List of Frameworks and Libraries] -->
+- Tools and Technologies: Venafi, IIS
+- Other Skills: Analytical thinker
 
-(<https://techcommunity.microsoft.com/t5/powershell/ct-p/WindowsPowerShell>)
+## Projects
 
-### [PowerShell Slack](https://aka.ms/psslack) (<https://aka.ms/psslack>)
+Work in Progress
 
-- Likely used this for planning meals or travel..or sharing that your Wi-Fi doesn't work
+<!-- - [Project 1](link-to-project-1): Brief description of the project
+- [Project 2](link-to-project-2): Brief description of the project
+- [Project 3](link-to-project-3): Brief description of the project
+-->
 
-### [PowerShell Discord](https://discord.gg/vFrjnxP) (<https://discord.gg/vFrjnxP>)
+## Contributions
 
-- #powershell-help channel
+Work in Progress
 
-### [PowerShell Reddit](https://www.reddit.com/r/PowerShell/)
+<!-- 
+- [Contribution 1](link-to-contribution-1): Brief description of the contribution
+- [Contribution 2](link-to-contribution-2): Brief description of the contribution
+- [Contribution 3](link-to-contribution-3): Brief description of the contribution
+-->
 
-(<https://www.reddit.com/r/PowerShell>)
+## Get in Touch
 
-## EDUCATIONAL
+<!--- Email: [Your Email]
+ - Website: [Your Website] -->
+- [LinkedIn](www.linkedin.com/in/austin-hollett)
 
-### [PowerShell Youtube](https://www.youtube.com/powershellorg)
-
-(<https://www.youtube.com/powershellorg>)
-
-- Past Summits available!!
-
-### Speakers' Blogs
-
-- Check their slide decks
-- Ask them for socials!
-
-## Final thoughts
-
-- What can you automate?
-- Use it or lose it!
+Feel free to explore my repositories and reach out to me if you have any questions or would like to collaborate on any projects. Looking forward to connecting with you!
