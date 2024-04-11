@@ -4,7 +4,7 @@
 
 ## FORUM RELATED
 
-<mark> General rule of thumb:</mark>
+**General rule of thumb:**
 When posting, be descriptive, but concise and show any dependencies that contextualize your code requirements.
 
 ### [PowerShell Forums](PowerShell.org) (<https://PowerShell.org>)
