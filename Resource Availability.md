@@ -7,7 +7,7 @@
 **General rule of thumb:**
 When posting, be descriptive, but concise and show any dependencies that contextualize your code requirements.
 
-- [PowerShell Forums](PowerShell.org) (<https://PowerShell.org>)
+- [PowerShell Forums](PowerShell.org) (<https://forums.powershell.org>)
 - [PowerShell Slack](https://aka.ms/psslack) (<https://aka.ms/psslack>)
 - [PowerShell Discord](https://discord.gg/vFrjnxP) (<https://discord.gg/vFrjnxP>)
 - [PowerShell Community](https://techcommunity.microsoft.com/t5/powershell/ct-p/WindowsPowerShell) (<https://techcommunity.microsoft.com/t5/powershell/ct-p/WindowsPowerShell>)
@@ -20,7 +20,7 @@ When posting, be descriptive, but concise and show any dependencies that context
 
 ### [PowerShell Slack](https://aka.ms/psslack)
 
-- Likely used this for planning meals or travel..or sharing that your Wi-Fi doesn't work
+- Likely used this for planning meals such for last minute changes or travel..or sharing that your Wi-Fi doesn't work
 
 ### [PowerShell Discord](https://discord.gg/vFrjnxP)
 
