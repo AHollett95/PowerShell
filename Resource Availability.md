@@ -10,7 +10,7 @@ When posting, be descriptive, but concise and show any dependencies that context
 ### [PowerShell Forums](PowerShell.org) (<https://PowerShell.org>)
 
 - Navigating the forums
-- How to post (code snippets and supports markdown)
+- How to post (code snippets; supports markdown)
 
 ### [PowerShell Community](https://techcommunity.microsoft.com/t5/powershell/ct-p/WindowsPowerShell)
 
@@ -43,5 +43,5 @@ When posting, be descriptive, but concise and show any dependencies that context
 
 ## Final thoughts
 
-- What can you automate?
+- Innovate automation
 - Use it or lose it!
