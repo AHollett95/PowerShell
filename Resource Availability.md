@@ -4,7 +4,7 @@
 
 ## FORUM RELATED
 
-**General rule of thumb:**
+_**General rule of thumb:**_
 When posting, be descriptive, but concise and show any dependencies that contextualize your code requirements.
 
 - [PowerShell Forums](PowerShell.org) (<https://forums.powershell.org>)
@@ -13,7 +13,7 @@ When posting, be descriptive, but concise and show any dependencies that context
 - [PowerShell Community](https://techcommunity.microsoft.com/t5/powershell/ct-p/WindowsPowerShell) (<https://techcommunity.microsoft.com/t5/powershell/ct-p/WindowsPowerShell>)
 - [PowerShell Reddit](https://www.reddit.com/r/PowerShell/) (<https://www.reddit.com/r/PowerShell>)
 
-### [PowerShell Forums](PowerShell.org)
+### [PowerShell Forums](forums.powershell.org)
 
 - Navigating the forums
 - How to post (code snippets; supports markdown)
